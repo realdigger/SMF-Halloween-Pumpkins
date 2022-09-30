@@ -26,11 +26,12 @@
 			<search position="after"><![CDATA[// If RSS feeds are enabled, advertise the presence of one.]]></search>
 
 			<add><![CDATA[
-//* Halloween
+//* Halloween mod
+global $settings;
 echo '<script type="text/javascript">;
 document.write(\'<img src="' . $settings['images_url'] . '/halloween/' . rand(1,13) . '.png" border="0" width="64" height="64" style="position:absolute; right:0px; top:0px; margin:0px; padding:0px">\')
 </script>';
-// Halloween *
+// Halloween mod*
 ]]></add>
 		</operation>
 	</file>
