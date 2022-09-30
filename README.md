@@ -1,7 +1,7 @@
-[![GitHub release](https://img.shields.io/github/release/realdigger/SMF-Halloween-Pumpkins.svg)]()
+[![GitHub release](https://img.shields.io/github/release/realdigger/SMF-Halloween-Pumpkins.svg)](https://github.com/realdigger/SMF-Halloween-Pumpkins/releases)
 [![SMF](https://img.shields.io/badge/SMF-2.0-blue.svg?style==flat)](https://simplemachines.org)
 [![SMF](https://img.shields.io/badge/SMF-2.1-blue.svg?style==flat)](https://simplemachines.org)
-[![license](https://img.shields.io/github/license/realdigger/SMF-Halloween-Pumpkins.svg)]()
+[![license](https://img.shields.io/github/license/realdigger/SMF-Halloween-Pumpkins.svg)](https://github.com/realdigger/SMF-Halloween-Pumpkins/blob/master/LICENSE.txt)
 
 # SMF Halloween Pumpkins [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=SMF%20April%20Fools%20&url=https://github.com/realdigger/SMF-Halloween-Pumpkins&hashtags=smf,halloween)
 * **Author:** digger [https://mysmf.net](https://mysmf.net)
