@@ -12,7 +12,7 @@
 <package-info xmlns="http://www.simplemachines.org/xml/package-info" xmlns:smf="http://www.simplemachines.org/">
 	<id>digger:Halloween_pumpkins</id>
 	<name>Halloween Pumpkins Mod</name>
-	<version>1.0</version>
+	<version>1.0.1</version>
 	<type>modification</type>
 	<install>
 		<modification>modification.xml</modification>
